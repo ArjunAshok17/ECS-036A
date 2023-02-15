@@ -1,0 +1,19 @@
+ 	w		 2  2	 	 0		  0 			
+	w	  	1		  2  0  		2  
+monkey
+10
+w 0 0 0 1 man
+waffle 1 0 1 0
+rat 10 10
+r 2 2 boi
+eras 1 1
+e 2 2 john
+d c 3 morty
+dunkey c 1
+d cat 0
+d r 1 rick
+d rench 2
+dat r 1
+help
+quack
+	  	 q   
